@@ -10,6 +10,22 @@ Currently this tool can create the (FedRAMP Attachment 13 Template)[https://www.
 
 A config file is required to use the Asset Worksheet Tool. The default filename is `.assetWorksheet.conf` in the current directory. This file name and location can be overwritten using a command-line switch. 
 
+## Building
+
+From the root directory: 
+
+```
+python3 -m build
+```
+
+## Installation 
+
+The tool is available in PyPi. 
+
+```
+pip3 install assetWorksheet
+```
+
 ### Config File Format
 
 An example configuration file to create FedRAMP Attachment 13 inventories. The header fields can be manipulated  
