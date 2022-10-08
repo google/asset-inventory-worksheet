@@ -23,7 +23,7 @@ python3 -m build
 The tool is available in PyPi. 
 
 ```
-pip3 install assetWorksheet
+pip3 install asset-worksheet
 ```
 
 ### Config File Format
