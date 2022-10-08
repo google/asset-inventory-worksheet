@@ -120,4 +120,4 @@ Options:
 
 ## Contributing 
 
-see (CONTRIBUTING)[CONTRIBUTING]
+see [CONTRIBUTING](CONTRIBUTING)
